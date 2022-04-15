@@ -14,6 +14,7 @@
 
 ## 2. 배포 URL
 - [:tangerine: 감귤마켓 :tangerine:](https://useon.github.io/mandarin-market/src/pages/login)
+- http호환 문제 이슈 : [감귤마켓.ver2로 이동](https://github.com/postop09/mandarine_market_ver2)
 
 ## 3. 프로젝트 구조와 개발 일정
 
